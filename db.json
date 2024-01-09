@@ -606,7 +606,7 @@
       ]
     },
     {
-      "category": "javascript",
+      "category": "typescript",
       "all_questions": [
         {
           "question": "What is TypeScript?",
