@@ -604,6 +604,151 @@
           "difficulty": "easy"
         }
       ]
+    },
+    {
+      "category": "javascript",
+      "all_questions": [
+        {
+          "question": "What is TypeScript?",
+          "options": [
+            "A scripting language",
+            "A superset of JavaScript",
+            "A server-side language",
+            "A markup language"
+          ],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which keyword is used to define a variable in TypeScript?",
+          "options": ["var", "let", "const", "declare"],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What does 'TS' stand for in TypeScript?",
+          "options": ["TextScript", "TypeScript", "TypeStyle", "TypedScript"],
+          "correctOption": 1,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which data type represents a collection of values in TypeScript?",
+          "options": ["String", "Number", "Array", "Boolean"],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is the purpose of the 'interface' keyword in TypeScript?",
+          "options": [
+            "To define a class",
+            "To create an object",
+            "To declare a function",
+            "To define a structure for an object"
+          ],
+          "correctOption": 3,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "Which keyword is used to explicitly specify the data type of a variable in TypeScript?",
+          "options": ["type", "datatype", "as", "explicit"],
+          "correctOption": 2,
+          "points": 10,
+          "difficulty": "easy"
+        },
+        {
+          "question": "What is the purpose of 'tsconfig.json' in a TypeScript project?",
+          "options": [
+            "To configure TypeScript compiler options",
+            "To store data",
+            "To define dependencies",
+            "To manage version control"
+          ],
+          "correctOption": 0,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which type is used to represent a nullable value in TypeScript?",
+          "options": ["undefined", "null", "void", "Nullable"],
+          "correctOption": 0,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "What is the purpose of the 'extends' keyword in TypeScript?",
+          "options": [
+            "To implement inheritance",
+            "To concatenate strings",
+            "To import modules",
+            "To create interfaces"
+          ],
+          "correctOption": 0,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "Which operator is used for optional properties in TypeScript?",
+          "options": ["?", "*", "!", "$"],
+          "correctOption": 0,
+          "points": 20,
+          "difficulty": "medium"
+        },
+        {
+          "question": "What is the purpose of 'namespace' in TypeScript?",
+          "options": [
+            "To declare a variable",
+            "To create a new scope",
+            "To organize code into named spaces",
+            "To define a class"
+          ],
+          "correctOption": 2,
+          "points": 30,
+          "difficulty": "hard"
+        },
+        {
+          "question": "What is the purpose of 'tuple' in TypeScript?",
+          "options": [
+            "To create a list of values",
+            "To declare a variable",
+            "To define a function",
+            "To represent a fixed-size array with specific types"
+          ],
+          "correctOption": 3,
+          "points": 30,
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which type is used for asynchronous programming in TypeScript?",
+          "options": ["async", "Promise", "callback", "await"],
+          "correctOption": 1,
+          "points": 30,
+          "difficulty": "hard"
+        },
+        {
+          "question": "What is the purpose of 'type assertion' in TypeScript?",
+          "options": [
+            "To enforce a specific type",
+            "To convert one type to another",
+            "To declare a new type",
+            "To assert the presence of a type"
+          ],
+          "correctOption": 1,
+          "points": 30,
+          "difficulty": "hard"
+        },
+        {
+          "question": "Which command is used to compile TypeScript files?",
+          "options": ["tsc", "tscompile", "typescript", "compile"],
+          "correctOption": 0,
+          "points": 10,
+          "difficulty": "easy"
+        }
+      ]
     }
   ]
 }
